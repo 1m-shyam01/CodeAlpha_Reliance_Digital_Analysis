@@ -88,21 +88,19 @@ Charts are created in `Visualization.ipynb` (images below are saved in `charts/`
 ## Charts
 
 ### Product Count by Category
-![Product Count by Category](charts/01_product_count.png)
-
+[![Product Count by Category](charts/01_product_count.png)(https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/01_product_count.png)
 ### Average Price by Category
-![Average Price by Category](charts/02_avg_price.png)
-
+[![Average Price by Category](charts/02_avg_price.png)](https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/02_avg_price.png)
 ### Average Discount by Category
-![Average Discount by Category](charts/03_avg_discount.png)
+[![Average Discount by Category](charts/03_avg_discount.png)](https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/03_avg_discount.png)
 
 ### Price vs Discount
 Most products sit in the lower price range, and there is no strong linear relationship.
 
-![Price vs Discount](charts/04_price_vs_discount.png)
+[![Price vs Discount](charts/04_price_vs_discount.png)](https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/04_price_vs_discount.png)
 
 ### Top 5 Most Expensive Products
-![Top 5 Most Expensive Products](charts/05_top5_expensive.png)
+[![Top 5 Most Expensive Products](charts/05_top5_expensive.png)](https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/05_top5_expensive.png)
 
 ---
 
@@ -143,7 +141,12 @@ pip install requests beautifulsoup4 pandas numpy matplotlib seaborn jupyter
 Shyam Singh
 
 🌐 Connect With Me
+
 🌍 Portfolio: shyam-tech.vercel.app
+
 💻 GitHub: github.com/1m-shyam01
+
 🔗 LinkedIn: linkedin.com/in/shyam-singh-190b7a2a6
+
+
 ⭐ If you found this project useful, consider giving it a star!
