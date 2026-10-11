@@ -88,19 +88,22 @@ Charts are created in `Visualization.ipynb` (images below are saved in `charts/`
 ## Charts
 
 ### Product Count by Category
-[![Product Count by Category](charts/01_product_count.png)(https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/01_product_count.png)
+<img width="1200" height="750" alt="image" src="https://github.com/user-attachments/assets/3ec1570e-990f-4970-9810-6835c8367162" />
+
 ### Average Price by Category
-[![Average Price by Category](charts/02_avg_price.png)](https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/02_avg_price.png)
+<img width="1200" height="750" alt="image" src="https://github.com/user-attachments/assets/2c5f2fc0-4aed-4375-8c8e-bb0cc7179283" />
+
 ### Average Discount by Category
-[![Average Discount by Category](charts/03_avg_discount.png)](https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/03_avg_discount.png)
+<img width="1200" height="750" alt="image" src="https://github.com/user-attachments/assets/b6f30709-84e9-41d3-9b39-6fbbed196533" />
 
 ### Price vs Discount
 Most products sit in the lower price range, and there is no strong linear relationship.
 
-[![Price vs Discount](charts/04_price_vs_discount.png)](https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/04_price_vs_discount.png)
+<img width="1200" height="750" alt="image" src="https://github.com/user-attachments/assets/1c564ef1-9aa9-4dde-bab1-4b4336b46465" />
 
 ### Top 5 Most Expensive Products
-[![Top 5 Most Expensive Products](charts/05_top5_expensive.png)](https://github.com/1m-shyam01/CodeAlpha_Reliance_Digital_Analysis/blob/main/Charts/05_top5_expensive.png)
+<img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/7f719512-1490-4c0a-8d29-c5bcde455cce" />
+
 
 ---
 
